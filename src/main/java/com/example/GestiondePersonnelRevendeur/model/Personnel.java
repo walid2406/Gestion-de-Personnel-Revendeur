@@ -18,7 +18,6 @@ import java.util.List;
 public class Personnel extends Personne{
     private String password;
 
-    @OneToMany(mappedBy = "personnel")
-    private List<Role> roles;
+
 
 }

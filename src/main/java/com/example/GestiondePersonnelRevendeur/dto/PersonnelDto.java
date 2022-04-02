@@ -2,7 +2,6 @@ package com.example.GestiondePersonnelRevendeur.dto;
 
 
 import com.example.GestiondePersonnelRevendeur.model.Personnel;
-import com.example.GestiondePersonnelRevendeur.model.Role;
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import lombok.Builder;
 import lombok.Data;
